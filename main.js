@@ -8,3 +8,5 @@ list.push(surname);
 console.log(list);
 list.sort();
 console.log(list);
+var listposition = list.indexOf(surname)+1;
+console.log(listposition);
