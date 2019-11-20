@@ -9,4 +9,4 @@ console.log(list);
 list.sort();
 console.log(list);
 var listposition = list.indexOf(surname)+1;
-console.log(listposition);
+console.log('il tuo cognome si trova in posizione ' + listposition);
